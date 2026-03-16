@@ -1,12 +1,12 @@
-# Hi 👋 I'm Varuni D
+# Hi I'm Varuni D
 
-🎓 B.Tech Graduate (2025) – Electronics and Computer Engineering  
-🏫 VIT Chennai  
-🤖 AI/ML Enthusiast | Software Developer | Product Builder  
+-> B.Tech Graduate (2025) – Electronics and Computer Engineering  
+-> VIT Chennai  
+-> AI/ML Enthusiast | Software Developer | Product Builder  
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a 2025 B.Tech graduate from VIT Chennai with a strong interest in Artificial Intelligence, Machine Learning, and product-focused software development.  
 
@@ -21,7 +21,7 @@ I have experience working with:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -45,7 +45,7 @@ Docker | Google Cloud Platform | Git | Linux
 
 ---
 
-## 💻 Coding and Social Profiles
+## Coding and Social Profiles
 
 LeetCode:  
 https://leetcode.com/u/varuniJayan/
@@ -58,5 +58,5 @@ https://www.linkedin.com/in/varuni-jayan/
 
 ---
 
-## 📫 Contact
+## Contact
 Email: varunidjayan@gmail.com
