@@ -23,25 +23,11 @@ I have experience working with:
 
 ## Tech Stack
 
-**Languages**
-
-Java | Python | JavaScript | SQL  
-
-**Backend & Frameworks**
-
-FastAPI | Spring Boot | REST APIs  
-
-**AI / ML**
-
-TensorFlow | Generative AI | LLM Applications  
-
-**Databases**
-
-MongoDB | MySQL | Redis  
-
-**Tools & Platforms**
-
-Docker | Google Cloud Platform | Git | Linux  
+**Languages** Java | Python | JavaScript | SQL  
+**Backend & Frameworks** FastAPI | Spring Boot | REST APIs  
+**AI / ML** TensorFlow | Generative AI | LLM Applications  
+**Databases** MongoDB | MySQL | Redis  
+**Tools & Platforms** Docker | Google Cloud Platform | Git | Linux  
 
 ---
 
